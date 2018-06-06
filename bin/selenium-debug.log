@@ -1,0 +1,17 @@
+14:55:32.772 INFO - Selenium build info: version: '3.3.1', revision: '5234b32'
+14:55:32.773 INFO - Launching a standalone Selenium Server
+2018-04-09 14:55:32.806:INFO::main: Logging initialized @288ms to org.seleniumhq.jetty9.util.log.StdErrLog
+14:55:32.893 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+ registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform MAC
+14:55:32.894 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+ registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform MAC
+14:55:32.894 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+14:55:32.894 INFO - Driver provider com.opera.core.systems.OperaDriver registration is skipped:
+Unable to create new instances on this machine.
+14:55:32.894 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+14:55:32.894 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+2018-04-09 14:55:32.966:INFO:osjs.Server:main: jetty-9.2.20.v20161216
+2018-04-09 14:55:33.001:INFO:osjsh.ContextHandler:main: Started o.s.j.s.ServletContextHandler@685cb137{/,null,AVAILABLE}
+2018-04-09 14:55:33.035:INFO:osjs.AbstractConnector:main: Started ServerConnector@5bcab519{HTTP/1.1,[http/1.1]}{0.0.0.0:4445}
+2018-04-09 14:55:33.035:INFO:osjs.Server:main: Started @518ms
+14:55:33.035 INFO - Selenium Server is up and running

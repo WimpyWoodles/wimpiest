@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+require('./runner.js');
+require('babel-register');
+
