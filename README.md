@@ -1,4 +1,4 @@
-# wimpywoodles
+# wimpiest
 
 1 ) Install Homebrew: 
 
