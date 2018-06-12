@@ -1,6 +1,6 @@
 # wimpiest
 
-1 ) Install Homebrew: 
+1) Install Homebrew: 
 
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
@@ -14,6 +14,12 @@
 
     npm install
 
-5) Run tests via nightwatch (while still in the project):
+5) Download the selenium jar and chromedriver and put them in the bin folder. 
+
+https://www.seleniumhq.org/download/
+
+http://chromedriver.chromium.org/downloads
+
+6) Run tests via nightwatch (while still in the project):
 
     ./bin/nightwatch ./src/LocalTests
