@@ -8,7 +8,7 @@
   "test_workers" : false,
 
   "selenium" : {
-    "start_process" : true,
+    "start_process" : false,
     "server_path" : "./bin/selenium-server-standalone-3.3.1.jar",
     "log_path" : "",
     "host" : "127.0.0.1",
@@ -22,7 +22,7 @@
 
   "test_settings" : {
     "default" : {
-      "launch_url" : "http://localhost",
+      "launch_url" : "http://localhost:4444/wd/hub",
       "selenium_host" : "127.0.0.1",
       "selenium_port" : 4444,
       "silent" : true,
